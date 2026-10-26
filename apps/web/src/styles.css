@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+:root {
+  --loomy-burgundy: #7b1e2e;
+  --loomy-burgundy-dark: #5e1422;
+  --loomy-bg: #f4f5f7;
+  --loomy-ink: #1e1e24;
+}
+
+body {
+  background: var(--loomy-bg);
+  color: var(--loomy-ink);
+}
